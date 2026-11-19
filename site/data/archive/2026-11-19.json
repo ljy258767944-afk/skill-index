@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "20261119-155817-e8242927",
+    "version": "20261119-160803-cefd4d46",
     "reportDate": "2026-11-19",
-    "collectedAt": "2026-11-19T15:58:17+08:00",
+    "collectedAt": "2026-11-19T16:08:03+08:00",
     "snapshotDate": "2026-11-18",
     "snapshotAgeDays": 1,
     "source": "https://www.skillleaderboard.com/api/catalog",
@@ -10,8 +10,8 @@
     "count": 500,
     "collectionMode": "在线获取公开目录",
     "downloads": {
-      "excel": "downloads/20261119-155817-e8242927/skills-top500.xlsx",
-      "csv": "downloads/20261119-155817-e8242927/skills-top500.csv"
+      "excel": "downloads/20261119-160803-cefd4d46/skills-top500.xlsx",
+      "csv": "downloads/20261119-160803-cefd4d46/skills-top500.csv"
     }
   },
   "skills": [
