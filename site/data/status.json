@@ -1,10 +1,10 @@
 {
   "state": "success",
-  "attemptedAt": "2026-11-24T10:12:53+08:00",
-  "lastSuccessAt": "2026-11-24T10:12:53+08:00",
-  "snapshotDate": "2026-11-23",
+  "attemptedAt": "2026-11-25T10:19:06+08:00",
+  "lastSuccessAt": "2026-11-25T10:19:06+08:00",
+  "snapshotDate": "2026-11-24",
   "rows": 500,
-  "version": "20261124-101253-49dcd337",
+  "version": "20261125-101906-c1858ebe",
   "collectionMode": "在线获取公开目录",
   "nextDailyTime": "09:00",
   "timezone": "Asia/Shanghai"
