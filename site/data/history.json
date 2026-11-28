@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "date": "2026-11-28",
+      "snapshotDate": "2026-11-27",
+      "count": 500,
+      "path": "data/archive/2026-11-28.json"
+    },
+    {
       "date": "2026-11-27",
       "snapshotDate": "2026-11-26",
       "count": 500,
